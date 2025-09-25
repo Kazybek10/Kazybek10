@@ -1,20 +1,17 @@
-<h1 align="center">Hey 👋, I'm Kaz</h1>
-<h3 align="center"> a new Full-Stack Web Developer based in Amsterdam, fresh out of the awesome Le Wagon bootcamp. I don't just write code—I love tackling real problems and making sure the solution is as clean as possible.
+<h1 align="center">Hi 👋, I'm Kaz</h1>
+<h3 align="center">a new Full-Stack Web Developer\ based in Amsterdam, fresh out of the awesome Le Wagon bootcamp. I don't just write code—I love tackling real problems and making sure the solution is as clean as possible. I'm currently hunting for my first Trainee/Junior Developer role. My main skill set includes Ruby on Rails for the backend, and pure JS for the frontend. I'm ready to jump into a team and start contributing!</h3>
 
-I'm currently hunting for my first **Trainee/Junior Developer** role. My main skill set includes **Ruby on Rails** for the backend, and crucially, I already know how **Agile teams** operate and how to file a killer bug report (thanks to my testing background!). I'm ready to jump into a team and start contributing!
-</h3>
+- 🌱 I’m currently learning **React**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kazybek10&label=Profile%20views&color=0e75b6&style=flat" alt="kazybek10" /> </p>
+- 👨‍💻 All of my projects are available at [https://github.com/Kazybek10](https://github.com/Kazybek10)
 
----
+- 💬 Ask me about **HTML5, CSS3, JavaScript, Ruby, Ruby on Rails, Git, GitHub, SQL, Heroku, Figma**
 
-- 🌱 **Currently learning:** I'm deep-diving into **React** and trying to tame **TypeScript** right now!
-- 💻 **Projects:** All my code and projects are here: [https://github.com/Kazybek10](https://github.com/Kazybek10). Feel free to take a look! 😉
-- 💬 **Ask me about:** HTML, CSS, JS, **Ruby on Rails**, Git, SQL. And yeah, I can even talk about Figma!
-- 🛠️ **My super-power:** I speak fluent **Agile/Kanban** and know how to use **Jira** from my manual testing days.
-- 📫 **How to reach me:** Just shoot me an email at **kazybeknurlanbek@gmail.com**
-- 📄 **My background:** You can read more about my experience (including the testing part!) here: [https://gist.github.com/Kazybek10/7d0c3089081b9b50dc27e7a81c8d1157](https://gist.github.com/Kazybek10/7d0c3089081b9b50dc27e7a81c8d1157)
-- ⚡ **Fun fact:** What do I do when I'm not coding? I'm watching football, reading history, or geeking out over world maps!
+- 📫 How to reach me **kazybeknurlanbek@gmail.com**
+
+- 📄 Know about my experiences [https://gist.github.com/Kazybek10/7d0c3089081b9b50dc27e7a81c8d1157](https://gist.github.com/Kazybek10/7d0c3089081b9b50dc27e7a81c8d1157)
+
+- ⚡ Fun fact **Besides working on projects, I love football, history and geography.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
