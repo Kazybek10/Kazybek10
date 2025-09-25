@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaz</h1>
+<h1 align="center">Hey 👋, I'm Kaz</h1>
 <h3 align="center">A passionate Full-Stack Web Developer recently graduated from Le Wagon bootcamp in Amsterdam. I thrive on solving real-world problems, try:) to writing clean code, and rapidly acquiring new technologies. I'm currently seeking a **Trainee/Junior Developer** position where I can leverage my experience in **Ruby on Rails** and my strong background in **Agile testing methodologies** to contribute to real teams and projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazybek10&label=Profile%20views&color=0e75b6&style=flat" alt="kazybek10" /> </p>
