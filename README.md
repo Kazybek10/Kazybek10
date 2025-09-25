@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kaz</h1>
-<h3 align="center">a new Full-Stack Web Developer\ based in Amsterdam, fresh out of the awesome Le Wagon bootcamp. I don't just write code—I love tackling real problems and making sure the solution is as clean as possible. I'm currently hunting for my first Trainee/Junior Developer role. My main skill set includes Ruby on Rails for the backend, and pure JS for the frontend. I'm ready to jump into a team and start contributing!</h3>
+<h3 align="center">A new Software Engineer based in Amsterdam, fresh out of the awesome Le Wagon bootcamp. I don't just write code—I love tackling real problems and making sure the solution is as clean as possible. I'm currently hunting for my first Trainee/Junior Developer role. My main skill set includes Ruby on Rails for the backend, and pure JS for the frontend. I'm ready to jump into a team and start contributing!</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I'm diving into **React** and trying to tame **TypeScript** right now!
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kazybek10](https://github.com/Kazybek10)
+- 👨‍💻  All my code and projects are here: [https://github.com/Kazybek10](https://github.com/Kazybek10). Feel free to take a look! 😉
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, Ruby, Ruby on Rails, Git, GitHub, SQL, Heroku, Figma**
 
-- 📫 How to reach me **kazybeknurlanbek@gmail.com**
+- 📫 **How to reach me:** Just shoot me an email at **kazybeknurlanbek@gmail.com**
 
-- 📄 Know about my experiences [https://gist.github.com/Kazybek10/7d0c3089081b9b50dc27e7a81c8d1157](https://gist.github.com/Kazybek10/7d0c3089081b9b50dc27e7a81c8d1157)
+- 📄 **My background:** You can read more about my experience here: [https://gist.github.com/Kazybek10/7d0c3089081b9b50dc27e7a81c8d1157](https://gist.github.com/Kazybek10/7d0c3089081b9b50dc27e7a81c8d1157)
 
-- ⚡ Fun fact **Besides working on projects, I love football, history and geography.**
+- ⚡ **Fun fact:** What do I do when I'm not coding? I'm watching football, reading history, or geeking out over world maps!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
