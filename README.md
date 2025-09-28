@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kaz</h1>
-<h3 align="center">A new Software Engineer based in Amsterdam, fresh out of the awesome Le Wagon bootcamp. I don't just write code—I love tackling real problems and making sure the solution is as clean as possible. I'm currently hunting for my first Trainee/Junior Developer role. My main skill set includes Ruby on Rails for the backend, and pure JS for the frontend. I'm ready to jump into a team and start contributing!</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaz;Fresh+Full+Stack+Software+Engineer)](https://git.io/typing-svg)
+<h3 align="center"> Based in Amsterdam, fresh out of the awesome Le Wagon bootcamp. I don't just write code—I love tackling real problems and making sure the solution is as clean as possible. I'm currently hunting for my first Trainee/Junior Developer role. My main skill set includes Ruby on Rails for the backend, and pure JS for the frontend. I'm ready to jump into a team and start contributing!</h3>
 
 - 🌱 I'm diving into **React** and trying to tame **TypeScript** right now!
 
