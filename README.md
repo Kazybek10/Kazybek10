@@ -1,19 +1,47 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaz;Fresh+Full+Stack+Software+Engineer" alt="Typing SVG">
 </p>
-<h3 align="center"> Based in Amsterdam, fresh out of the awesome Le Wagon bootcamp. I don't just write code—I love tackling real problems and making sure the solution is as clean as possible. I'm currently hunting for my first Trainee/Junior Developer role. My main skill set includes Ruby on Rails for the backend, and pure JS for the frontend. I'm ready to jump into a team and start contributing!</h3>
+<h3 align="center">Based in Amsterdam | Fresh Le Wagon Bootcamp Graduate | Aspiring Junior/Trainee Developer</h3>
 
-🌱 I'm diving into **React** and trying to tame **TypeScript** right now!
+---
 
-👨‍💻  All my code and projects are here: [https://github.com/Kazybek10](https://github.com/Kazybek10). Feel free to take a look! 😉
+## 💻 About Me
+I love **digging into problems and figuring out why things break**, just like a mechanic fixing cars 🔧.  
+I write clean, maintainable code and enjoy making solutions as **efficient and understandable** as possible.  
 
-💬 Ask me about **HTML5, CSS3, JavaScript, Ruby, Ruby on Rails, Git, GitHub, SQL, Heroku, Figma**
+My main stack: **Ruby on Rails** for the backend, **vanilla JavaScript** for the frontend.  
+I’m ready to jump into a team, contribute, and keep learning every day.  
 
-📫 **How to reach me:** Just shoot me an email at **kazybeknurlanbek@gmail.com**
+---
 
-📄 **My background:** You can read more about my experience here: [https://gist.github.com/Kazybek10/7d0c3089081b9b50dc27e7a81c8d1157](https://gist.github.com/Kazybek10/7d0c3089081b9b50dc27e7a81c8d1157)
+## 🌱 Skills & Tech
+**Frontend:** HTML5, CSS3, JavaScript, Figma  
+**Backend:** Ruby, Ruby on Rails, SQL, Heroku  
+**Version Control:** Git, GitHub  
+**Other:** Problem solving, debugging, code organization, teamwork  
 
-⚡ **Fun fact:** What do I do when I'm not coding? I'm watching football, reading history, or geeking out over world maps!
+---
+
+## 📂 Projects
+Check out my portfolio and all my projects here:  
+[GitHub Profile](https://github.com/Kazybek10)  
+
+---
+
+## 📫 Contact Me
+📧 Email: **kazybeknurlanbek@gmail.com**  
+📄 Resume: [My Background](https://gist.github.com/Kazybek10/7d0c3089081b9b50dc27e7a81c8d1157)  
+
+---
+
+## ⚡ Fun Facts
+- Big fan of **football** ⚽  
+- History nerd 📜  
+- Map enthusiast 🌍  
+
+---
+
+<h4 align="center">Let’s build something awesome together! 🚀</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
