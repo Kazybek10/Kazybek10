@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaz;Fresh+Full+Stack+Software+Engineer" alt="Typing SVG">
 </p>
-<h3 align="center">Based in Amsterdam | Fresh Le Wagon Bootcamp Graduate | Aspiring Junior/Trainee Developer</h3>
+<h3 align="center">Based in Amsterdam | Fresh Le Wagon Bootcamp Graduate | Full-Stack Junior/Trainee Developer</h3>
 
 ---
 
@@ -22,14 +22,6 @@ I’m ready to jump into a team, contribute, and keep learning every day.
 
 ---
 
-## 📂 Projects
-Check out my portfolio and all my projects here:  
-[GitHub Profile](https://github.com/Kazybek10)  
-
----
-
-## 📫 Contact Me
-📧 Email: **kazybeknurlanbek@gmail.com**  
 📄 Resume: [My Background](https://gist.github.com/Kazybek10/7d0c3089081b9b50dc27e7a81c8d1157)  
 
 ---
