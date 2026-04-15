@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaz;Fresh+Full+Stack+Software+Engineer" alt="Typing SVG">
 </p>
-<h3 align="center">Based in Amsterdam | Fresh Le Wagon Bootcamp Graduate | Full-Stack Junior/Trainee Developer</h3>
+<h3 align="center">Junior Full-Stack Developer · Rails · JavaScript · Amsterdam</h3>
 
 ---
 
