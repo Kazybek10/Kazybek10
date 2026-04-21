@@ -16,7 +16,7 @@ I’m ready to jump into a team, contribute, and keep learning every day.
 
 ## 🌱 Skills & Tech
 **Frontend:** HTML, CSS, JavaScript, Figma  
-**Backend:** Ruby, Ruby on Rails, SQL, Heroku, Render
+**Backend:** Ruby, Ruby on Rails, SQL, Heroku, Render    
 **Version Control:** Git, GitHub  
 **Other:** Problem solving, debugging, code organization, teamwork  
 
