@@ -1,5 +1,5 @@
 # 💫 About Me:
-I love **digging into problems and figuring out why things break**, just like a mechanic fixing cars 🔧.  <br>I write clean, maintainable code and enjoy making solutions as **efficient and understandable** as possible.  <br><br>My main stack: **Ruby on Rails** for the backend, **vanilla JavaScript** for the frontend.  <br>I’m ready to jump into a team, contribute, and keep learning every day.  
+I love **digging into problems and figuring out why things break**, just like a mechanic fixing cars 🔧.  <br>I write clean, maintainable code and enjoy making solutions as **efficient and understandable** as possible. <br>I’m ready to jump into a team, contribute, and keep learning every day.  
 
 
 ## 🌐 Socials:
