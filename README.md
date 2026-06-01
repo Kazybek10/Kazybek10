@@ -1,5 +1,11 @@
 # 💫 About Me:
-I love **digging into problems and figuring out why things break**, just like a mechanic fixing cars 🔧.  <br>I write clean, maintainable code and enjoy making solutions as **efficient and understandable** as possible. <br>I’m ready to jump into a team, contribute, and keep learning every day.  
+<br>I'm a Full-Stack Developer based in Amsterdam, focused on building real-world web applications and continuously improving through hands-on development.
+
+I love **digging into problems and figuring out why things break**, just like a mechanic fixing cars 🔧. 
+
+<br>My main project is Percata — a production Rails application that integrates multiple external APIs, user-generated content, authentication, file uploads, testing, and deployment infrastructure.
+
+<br>I’m ready to jump into a team, contribute, and keep learning every day.  
 
 
 ## 🌐 Socials:
